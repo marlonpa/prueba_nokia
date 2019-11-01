@@ -1,2 +1,3 @@
 # prueba_nokia
-Numeros bouncy
+Bouncy number cuando alcanza el 99%
+$python prueba.py
